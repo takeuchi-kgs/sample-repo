@@ -1,2 +1,2 @@
 # sample-repo
-再更新
+readme-changeにて更新
