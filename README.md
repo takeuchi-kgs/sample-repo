@@ -1,2 +1,2 @@
 # sample-repo
-readme-changeにて更新
+orign
